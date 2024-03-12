@@ -39,7 +39,7 @@ The files included in this repository includes
 #### `10-add.py`
   - This is a function that adds two integers and returns the result.
 
-#### `11-main.py`
+#### `11-pow.py`
   - This function computes `a` to the power of `b`, and return the value.
 
 #### `12-fizzbuzz.py`
