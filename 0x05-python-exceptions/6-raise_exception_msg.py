@@ -2,5 +2,5 @@
 def raise_exception_msg(message=""):
     try:
         le(message)
-    except(NameError):
+    except (NameError):
         raise NameError(f"{message}")
