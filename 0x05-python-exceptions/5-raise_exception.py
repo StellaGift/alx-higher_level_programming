@@ -2,5 +2,5 @@
 def raise_exception():
     try:
         2 + "Alpha"
-    except(TypeError):
+    except (TypeError):
         raise TypeError
